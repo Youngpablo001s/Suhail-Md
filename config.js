@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="saimsamsun789@gmail.com"
-global.location="Lagos,Nigeria."
+global.email ="Shuzzyking150@gmail.com"
+global.location="Lagos,Nigeria"
 
 
 global.mongodb= process.env.MONGODB_URI || ""
@@ -74,8 +74,8 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.7",
   caption : global.caption || "" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| Young Pablo"",
-  packname: process.env.PACK_NAME || Young Pablo Stickers"",
+  author : process.env.PACK_AUTHER|| "Young Pablo",
+  packname: process.env.PACK_NAME || "Young Pablo Stickers",
   botname : process.env.BOT_NAME  || "YOUNG-MD",
   ownername:process.env.OWNER_NAME|| "It's Young Pablo",
 
